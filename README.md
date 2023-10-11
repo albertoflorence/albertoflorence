@@ -7,8 +7,12 @@
     <br/>
     Building, learning, and exploring the code's endless possibilities.
   </p>
-  <p>You can find me on <a href="https://www.linkedin.com/in/albertoflorence">LinkdIn</a> or visit my <a href="https://www.albertoflorence.com.br">Portfolio</a>. </p>
-  <p>If you want to reach me via email, you can contact me at <a href="mailto:alberto.sabatier@gmail.com">alberto.sabatier@gmail.com</a></p>
+  <p>
+    You can find me on <a href="https://www.linkedin.com/in/albertoflorence">LinkdIn</a> or visit my <a href="https://www.albertoflorence.com.br">Portfolio</a>.
+    <br>
+    If you want to reach me via email, you can contact me at <a href="mailto:alberto.sabatier@gmail.com">alberto.sabatier@gmail.com</a>
+  </p>
+  
 </div>
 
 <div align="center">
