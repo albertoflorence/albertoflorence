@@ -15,11 +15,6 @@
   
 </div>
 
-<div align="center">
-  <img height="195px" src="./images/stats.svg"/>
-  <img height="195px" src="./images/transferir.svg"/>
-</div>
-
 ##
 <div id='lojc' align="center">
 
